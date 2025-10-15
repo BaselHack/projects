@@ -4,15 +4,15 @@ This repository contains an archive of projects from BaselHack hackathons, organ
 
 ## Projects by Year
 
-- [2017 Projects](2017.md)
-- [2018 Projects](2018.md)
-- [2019 Projects](2019.md)
-- [2020 Projects](2020.md)
-- [2021 Projects](2021.md)
-- [2022 Projects](2022.md)
-- [2023 Projects](2023.md)
-- [2024 Projects](2024.md)
-- [2025 Projects](2025.md)
+- [2017 Projects](projects/2017.md)
+- [2018 Projects](projects/2018.md)
+- [2019 Projects](projects/2019.md)
+- [2020 Projects](projects/2020.md)
+- [2021 Projects](projects/2021.md)
+- [2022 Projects](projects/2022.md)
+- [2023 Projects](projects/2023.md)
+- [2024 Projects](projects/2024.md)
+- [2025 Projects](projects/2025.md)
 
 ## License
 
