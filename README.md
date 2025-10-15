@@ -1,6 +1,13 @@
 # BaselHack Projects Archive
 
-This repository contains an archive of projects from BaselHack hackathons, organized by year. BaselHack is a hackathon event that brings together developers, designers, and innovators to create innovative solutions.
+This repository contains an archive of projects from [BaselHack](https://www.baselhack.ch/) hackathons, organized by year. BaselHack is a hackathon event that brings together developers, designers, and innovators to create innovative solutions.
+
+## More Information & Participation
+
+- **Official Website**: [baselhack.ch](https://www.baselhack.ch/)
+- **Next Event**: BaselHack 2025 - October 31 - November 2, 2025 @ Memox Basel SBB
+- **Updates & News**: Visit the website for the latest information and subscribe to newsletters
+- **Participate**: Everyone is welcome! Whether you're a programmer, designer, project manager, or just curious about technology
 
 ## Projects by Year
 
